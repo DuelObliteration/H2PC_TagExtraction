@@ -1,5 +1,5 @@
 # H2PC_TagExtraction_DUELS_EDIT
-My foul attempt at editing himanshus tag extractor. I dont know how to build the project because he was pretty vague on the processes after messing with visual studio, and that is mainly installation & project building.
+My foul attempt at editing himanshus tag extractor. I dont know how to build the project because he was pretty vague on the processes after messing with visual studio, (sorry himanshu!) and that is mainly installation & project building.
 The changes are uncommenting on perfectly set up code that normally would not have been changed in programs such as H2_tool.exe, Sapien & etc... The biggest change is that the Halo 2 pathfinding model data for pathfinding spheres and other things relating to that have been uncommented.
 So as a send off I hope whomever comes across this will actually build the project and really see if these changes help towards the progression of making AI work in Halo 2 Vista and Halo 2: Project Cartographer.
 
